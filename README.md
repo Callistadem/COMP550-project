@@ -1,3 +1,7 @@
+## Description
+This project was created as our COMP550 (NLP) final project. We analyzed bootstrapping with Yarowsky's algorithm for binary sentiment analysis in reviews. 
+Contributors: Callista Dembegiotis, Tal Sharoni, Sehr Moosabhoy
+
 ## Datasets 
 The datasets are not included in the code files, but here is some information on how to get them in order to reproduce our code.
 
